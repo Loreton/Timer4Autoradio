@@ -1,0 +1,782 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"disable",
+				"disableTMR0"
+			],
+			[
+				"disa",
+				"disableTMR0"
+			],
+			[
+				"is",
+				"isCarON"
+			],
+			[
+				"to",
+				"toggle_bit"
+			],
+			[
+				"ena",
+				"enableTMR0"
+			],
+			[
+				"sle",
+				"SLEEP"
+			],
+			[
+				"L",
+				"LED_PIN"
+			],
+			[
+				"set",
+				"setattr	setattr"
+			],
+			[
+				"vali",
+				"validCommands"
+			],
+			[
+				"isAdm",
+				"isADMIN"
+			],
+			[
+				"STR_ALL",
+				"STR_ALLFORCE"
+			],
+			[
+				"echo",
+				"ECHO"
+			],
+			[
+				"script",
+				"scriptTempFile"
+			],
+			[
+				"git",
+				"gitUtenze"
+			],
+			[
+				"offs",
+				"offsetsToChange"
+			],
+			[
+				"offset",
+				"InstanceBindingPortOFFSET"
+			],
+			[
+				"Certifica",
+				"CertificatePath"
+			],
+			[
+				"unico",
+				"unicode	unicode"
+			],
+			[
+				"curr",
+				"currUID"
+			],
+			[
+				"REMOTE",
+				"REMOTE_USER"
+			],
+			[
+				"deploy",
+				"deployPath"
+			],
+			[
+				"E",
+				"Exception  (class)"
+			],
+			[
+				"ma",
+				"makedirs  (function)"
+			],
+			[
+				"Jbo",
+				"JBossName"
+			],
+			[
+				"instan",
+				"isinstance	isinstance"
+			],
+			[
+				"status",
+				"statusMsg"
+			],
+			[
+				"LINU",
+				"LINUX_SSH"
+			],
+			[
+				"statusM",
+				"statusMSG"
+			],
+			[
+				"repoSec",
+				"repoSectID"
+			],
+			[
+				"templa",
+				"templateFname"
+			],
+			[
+				"console",
+				"consoleHandler"
+			],
+			[
+				"JBi",
+				"JBInstance"
+			],
+			[
+				"JBoss",
+				"JBossName"
+			],
+			[
+				"has",
+				"hasattr	hasattr"
+			],
+			[
+				"JAV",
+				"JAVA_HOME"
+			],
+			[
+				"servic",
+				"serviceActions"
+			],
+			[
+				"JBos",
+				"JBossName"
+			],
+			[
+				"JBna",
+				"JBNAME"
+			],
+			[
+				"valid",
+				"validActions"
+			],
+			[
+				"insta",
+				"isinstance	isinstance"
+			],
+			[
+				"JBN",
+				"JBNAME"
+			],
+			[
+				"JB_",
+				"JB_InstanceName"
+			],
+			[
+				"statu",
+				"statusMSG"
+			],
+			[
+				"memoryMa",
+				"memoryManagers"
+			],
+			[
+				"CY",
+				"cygdrive"
+			],
+			[
+				"DES",
+				"DEST_BASE_DIR"
+			],
+			[
+				"print",
+				"print	keyword"
+			],
+			[
+				"My",
+				"MyDATA"
+			],
+			[
+				"D",
+				"Data"
+			],
+			[
+				"Loreto_",
+				"Loreto_Tech_Doc"
+			],
+			[
+				"_",
+				"_DESTDIR"
+			],
+			[
+				"valu",
+				"valueTypeStr"
+			],
+			[
+				"value",
+				"valueType"
+			],
+			[
+				"in",
+				"inspect"
+			],
+			[
+				"ty",
+				"typeList"
+			],
+			[
+				"dict",
+				"dictID"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Set Syntax: a",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"Set Syntax: sc",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"Set Syntax: c",
+				"Set Syntax: C"
+			],
+			[
+				"todo",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"Set Syntax: ",
+				"Set Syntax: INI"
+			],
+			[
+				"Set Syntax: p",
+				"Set Syntax: Python"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"ta",
+				"Tasks: New document"
+			],
+			[
+				"to",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Set Syntax: j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Set Syntax: ba",
+				"Set Syntax: Batch File"
+			],
+			[
+				"Set Syntax: i",
+				"Set Syntax: INI"
+			],
+			[
+				"Set Syntax: b",
+				"Set Syntax: Batch File"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Set Syntax: bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"Set Syntax: bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"opt",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Set Syntax: batc",
+				"Set Syntax: Batch File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: For Loop"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 264.0,
+		"history":
+		[
+			"\"Git: Status\"",
+			"Git: Status",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Include",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Source",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Stimulus"
+	],
+	"file_history":
+	[
+		"/L/LnFree/SynchBackup/FreeFileSync/_LnProfiles/Ln232GB.ffs_batch",
+		"/L/LnFree/SynchBackup/FreeFileSync/LnFreeFileSync.cmd",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Source/TimerMain.c",
+		"/L/LnFree/SynchBackup/FreeFileSync/_LnProfiles/Ln232GBA.ffs_batch",
+		"/L/LnFree/SynchBackup/FreeFileSync/_LnProfiles/Ln1TB_A/BatchRun.ffs_batch",
+		"/G/Papusso/LnFreeOther/Android/N9330-2014/LnReadME2.txt",
+		"/G/Papusso/LnFreeOther/Android/N9330-Products/LnReadME2.txt",
+		"/G/Papusso/LnFreeOther/Android/N9330-Products/LnReadME.txt",
+		"/L/LnFree/SynchBackup/FreeFileSync/_LnProfiles/Ln232GB_A/07-MyData.ffs_gui",
+		"/L/LnFree/SynchBackup/FreeFileSync/_LnProfiles/Ln232GB_A/06-LoretoTech_DOC.ffs_gui",
+		"/L/LnFree/SynchBackup/FreeFileSync/_LnProfiles/Ln232GB_A/05-Loreto_DOC.ffs_gui",
+		"/L/LnFree/SynchBackup/FreeFileSync/_LnProfiles/Ln232GB_A/04-Loreto.ffs_gui",
+		"/L/LnFree/SynchBackup/FreeFileSync/_LnProfiles/Ln232GB_A/03-LnSite.ffs_gui",
+		"/L/LnFree/SynchBackup/FreeFileSync/_LnProfiles/Ln232GB_A/02-LnFree_AZ-FULL.ffs_gui",
+		"/L/LnFree/SynchBackup/FreeFileSync/_LnProfiles/Ln232GB_A/01-BdI_FULL.ffs_gui",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Source/setUp_PIC12F635.c",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Include/Timer4Autoradio_PIC12F635.h",
+		"/L/Loreto/GIT-REPO/homeLoreto/.ssh/config",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Source/Timer4Autoradio_IRQ_PIC12F635.c",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Stimulus/Timer4Autoradio.scl",
+		"/L/zTemp/WinSCP/scp48584/JBoss%2FPOC - Portale Operazione contante%2FSEFALQ94 - SVIL/opt/jbossfs/V630/JBossAdmin/conf/JBossAdmin.ini",
+		"/L/zTemp/WinSCP/scp48983/JBoss%2FPOC - Portale Operazione contante%2FSEFALQ94 - SVIL/opt/jbossfs/V630/JBossAdmin/conf/LoggerConfig.ini",
+		"/L/zTemp/WinSCP/scp53996/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/etc/samba/smb.conf",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Trace",
+		"/L/LnFree/CAD/OmniGlyph-Ln/OmniGlyph.exe-Ln_exe.ini",
+		"/L/Loreto/GIT-REPO/LN_Git_Utils/gitPush.sh",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Stimulus/aaaa.scl",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Stimulus/myRA0.scl",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Stimulus/Timer4Autoradio.sbs",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Stimulus/myCLOCK.scl",
+		"/D/Dati/Profili/f602250/Documents/Amministrazione/Locale/Elenco_Telefonico_Esterni.txt",
+		"/D/Dati/Profili/f602250/Documents/Amministrazione/Locale/Elenco_telefonico_interno_2013-07-08.txt",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/TimerINT0/Source/IRQHandler_PIC12F635.c",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Include/pic12f635.h",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Timer4Autoradio/Include/LnCommon_PIC12F635.h",
+		"/L/Loreto/GIT-REPO/ProgettiVari/.git/config",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/.gitignore",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/.git/config",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Comparator/Source/RAIE_IRQ_PIC12F635.c",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Comparator/Source/Comparator_IRQ_PIC12F635.c",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Comparator/Source/TimerMain.c",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/Comparator/Include/Comparator_PIC12F635.h",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/TimerRAIE/Source/Configure_PIC12F635.c",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/TimerRAIE/Include/RAIE_PIC12F635.h",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/TimerRAIE/Source/TimerMain.c",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/TimerRAIE/Source/RAIE_IRQ_PIC12F635.c",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/TimerTMR0/Source/TMR0_IRQ_PIC12F635.c",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/TimerTMR0/Source/TimerMain.c",
+		"/L/zTemp/WinSCP/scp52117/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO/Python2/JBossCMK/conf/JBossCMK.ini",
+		"/L/zTemp/WinSCP/scp51129/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO/Python2/JBossCMK/SOURCE/JBossCMK_Pkg/Main/JBossCheck_MK.py",
+		"/L/zTemp/WinSCP/scp51611/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO/Python2/JBossCMK/SOURCE/JBossCMK_Pkg/setup/ProcessIniConfigFile.py",
+		"/L/zTemp/WinSCP/scp50696/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO/Python2/JBossAdmin/SOURCE/ProjectPackage/Main/JBossAdmin.py",
+		"/L/zTemp/WinSCP/scp50052/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO/Python2/JBossAdmin/SOURCE/ProjectPackage/Setup/ProcessIniConfigFile.py",
+		"/L/zTemp/WinSCP/scp51669/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO/Python2/JBossAdmin/conf/JBossAdmin.ini",
+		"/L/zTemp/WinSCP/scp50981/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO/Python2/JBossAdmin/SOURCE/__main__.py",
+		"/L/zTemp/WinSCP/scp18469/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/etc/samba/smb.conf",
+		"/L/zTemp/WinSCP/scp25792/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO/Python2/JBossCMK/SOURCE/__main__.py",
+		"/L/zTemp/WinSCP/scp25564/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO/Python2/JBossCMK/SOURCE/JBossCMK_Pkg/setup/ParseInput.py",
+		"/L/zTemp/WinSCP/scp39342/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO/Python3/JBossAdmin/SOURCE/ProjectPackage/Setup/ParseInput.py",
+		"/L/zTemp/WinSCP/scp48831/JBoss%2FNuova Intranet%2FCERT%2FINTRLL28 - Liferay LB/opt/jbossfs/V610/JBossCMK/conf/JBossCMK.ini",
+		"/L/zTemp/WinSCP/scp43139/JBoss%2FOCSE%2FSEFALN54 - Svil/opt/jbossfs/V621/LORETO/JBossCMK/conf/JBossCMK.ini",
+		"/L/zTemp/WinSCP/scp42187/JBoss%2FOCSE%2FSEFALN54 - Svil/opt/jbossfs/V621/LORETO/JBossCMK/PrjBUILD/createTAR.sh",
+		"/L/Loreto/GIT-REPO/PIC/MPLAB/TimerTMR0/Source/Configure_PIC12F635.c",
+		"/P/JBossCMK/.git/config",
+		"/P/JBossCMK/PrjBUILD/createTAR.sh",
+		"/P/JBossCMK/conf/JBossCMK.ini",
+		"/P/JBossCMK/SOURCE/JBossCMK_Pkg/Main/ApacheStatus.py",
+		"/P/JBossCMK/SOURCE/__main__.py",
+		"/L/Loreto/Procs/Bat/SSH-Tunnel.cmd",
+		"/L/Loreto/Procs/Bat/SSH_SendKey.txt",
+		"/L/zTemp/WinSCP/scp29494/MVS-OE%2FPROD/u/cebisftp/CERVED/scripts/LoretoUnzip.sh",
+		"/L/zTemp/WinSCP/scp52678/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/opt/jboss",
+		"/L/zTemp/WinSCP/scp24809/JBoss%2F@ -- INFRA%2FESIL-904 - GIT Repo/opt/jbossfs/JBossAdmin-REPO-LORETO/WSGI_Server/conf/JBossAdmin_WSGI_server_LORETO.conf",
+		"/L/zTemp/WinSCP/scp38510/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/index.html",
+		"/L/zTemp/WinSCP/scp37645/JBoss%2F@ -- INFRA%2FESIL-904 - GIT Repo/opt/jbossfs/JBossAdmin-REPO-LORETO/index.html",
+		"/P/JBossAdmin/SOURCE/ProjectPackage/Setup/ParseInput.py",
+		"/P/JBossAdmin/SOURCE/ProjectPackage/Actions/JBossInitialize.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/L/zTemp/WinSCP/scp24945/JBoss%2F@ -- INFRA%2FESIL-904 - GIT Repo/etc/httpd/conf.d/JBossAdmin_WSGI_server.conf",
+		"/L/zTemp/WinSCP/scp58334/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/WSGI_Server/conf/JBossRepo_WSGI_server_bios-repo.conf",
+		"/C/Users/f602250/.ssh/known_hosts",
+		"/C/Users/f602250/.ssh/id_rsa.pub",
+		"/C/Users/f602250/.ssh/config",
+		"/L/zTemp/WinSCP/scp01499/JBoss%2FNuova Intranet%2FCERT%2FINTRLL24 - Liferay CDM/opt/jbossfs/V610/eap/JBossLR/Bdi-conf/apache/JBossLR.conf",
+		"/L/zTemp/WinSCP/scp56544/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/opt/jbossfs/V621/eap/JBoss400/Bdi-conf/InstanceConfig.ini",
+		"/L/zTemp/WinSCP/scp55077/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/opt/jbossfs/V621/eap/JBoss400/Bdi-conf/ApacheConf/JBoss400_SSL_VH.conf",
+		"/D/zTemp/b/INI-Template/deploy.OracleXADatasource.ini",
+		"/D/zTemp/b/INI-Template/deployed.OracleDatasource.ini",
+		"/L/zTemp/WinSCP/scp00398/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V630/Machines/SEFALD93/JBoss630A/deploy/deployed.OracleDatasource.ini",
+		"/L/zTemp/WinSCP/scp49600/JBoss%2FOCSE%2FSEFALN54 - Svil/opt/jbossfs/V621/eap/JBossOCSE_NEW/configuration/standalone.xml",
+		"/L/zTemp/WinSCP/scp38767/JBoss%2FOCSE%2FSEFALN54 - Svil/opt/jbossfs/V621/eap/JBossOCSE/configuration/standalone.xml",
+		"/L/zTemp/WinSCP/scp55138/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V621_Prev/Machines/SEFALN54/ocseOracleDS.ini",
+		"/L/zTemp/WinSCP/scp55032/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V632/Machines/SEFALF97/JBossELAPTG_BPM/deploy/deploy-DEPLOYED.Oracle.elaDS.ini",
+		"/L/zTemp/WinSCP/scp56855/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V632/Machines/SEFALF97/JBossELAPTG_BPM/deploy/deploy-DEPLOYED.Oracle.gerDS.ini",
+		"/L/zTemp/WinSCP/scp56486/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V632/Machines/SEFALF97/JBossELAPTG_WEB/deploy/deploy-DEPLOYED.Oracle.elaDS.ini",
+		"/L/zTemp/WinSCP/scp56000/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V632/Machines/SEFALF97/JBossELAPTG_WEB/deploy/deploy-DEPLOYED.Oracle.gerDS.ini",
+		"/L/zTemp/WinSCP/scp57945/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V630/Machines/SEFALF97/JBossELAPTG_BPM/deploy/deploy-DEPLOYED.Oracle.elaDS.ini",
+		"/L/zTemp/WinSCP/scp55734/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V632/Machines/SEFALF97/JBossELAPTG_BPM/deploy/deploy-DEPLOYED.DB2.abacoDS.ini",
+		"/L/zTemp/WinSCP/scp55128/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V621_Prev/Machines/SEFALN54/SpnKeytabUpdate.ini",
+		"/L/zTemp/WinSCP/scp54913/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V621/Machines/SEFALN54/JBossOCSE_NEW/JBossOCSE_NEW_ActionList.ini",
+		"/L/zTemp/WinSCP/scp48008/JBoss%2FOCSE%2FSEFALN54 - Svil/opt/jbossfs/V621/eap/JBossOCSE_NEW/Bdi-conf/InstanceConfig.ini",
+		"/L/zTemp/WinSCP/scp42948/JBoss%2FOCSE%2FSEFALN54 - Svil/opt/jbossfs/V621/JBossAdmin3/conf/JBossAdmin.ini",
+		"/L/zTemp/WinSCP/scp27420/JBoss%2FOCSE%2FSEFALN54 - Svil/opt/jbossfs/V621/JBossAdmin/conf/InstanceTemplate.cfg",
+		"/L/zTemp/WinSCP/scp30678/JBoss%2FOCSE%2FSEFALN54 - Svil/opt/jbossfs/V621/eap/JBossOCSE/Bdi-conf/JBossOCSE.cfg",
+		"/L/zTemp/WinSCP/scp37044/JBoss%2FOCSE%2FSEFALN54 - Svil/opt/jbossfs/V621/JBossAdmin/deploy/BDI-CONF/login/jboss.console.groups",
+		"/P/JBossAdmin/conf/JBossAdmin-V621.ini",
+		"/L/zTemp/WinSCP/scp00732/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO-Py3/JBossAdmin/PrjBUILD/rpmbuild/SPECS/JBossAdmin621.spec",
+		"/D/zTemp/b/JBossAdmin_OK/conf/InstanceTemplate.cfg",
+		"/L/zTemp/WinSCP/scp00664/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO-Py3/JBossAdmin/PrjBUILD/rpmbuild/SPECS/JBossAdmin.spec",
+		"/L/zTemp/WinSCP/scp49776/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/LN_Git_Utils/gitMerge.sh",
+		"/L/zTemp/WinSCP/scp44759/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO-Py3/JBossAdmin/bin/create.sh",
+		"/L/zTemp/WinSCP/scp35630/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO-Py3/JBossAdmin/bin/jboss-V630.initd",
+		"/L/zTemp/WinSCP/scp38144/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO-Py3/JBossAdmin/bin/jboss-V621.initd",
+		"/L/zTemp/WinSCP/scp35659/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO-Py3/JBossAdmin/bin/jboss-V632.initd",
+		"/L/zTemp/WinSCP/scp40686/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/home/loreto/GIT-REPO-Py3/JBossAdmin/bin/jboss621.initd",
+		"/P/JBossAdmin/conf/JBossAdmin.ini",
+		"/L/zTemp/WinSCP/scp16253/JBoss%2F@ -- INFRA%2FSEFALD93 - Svil/opt/jbossfs/V621/eap/JBoss400/Bdi-conf/InstanceConfig.ini",
+		"/L/zTemp/WinSCP/scp28167/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V621/Common/ActionList.ini",
+		"/L/zTemp/WinSCP/scp32811/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V621/Common/BdI-Conf/apache/Default_SSL_VH.conf",
+		"/L/zTemp/WinSCP/scp30146/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V621/Common/defaultDeploy/VaultManager_SecurityDomain.ini",
+		"/L/zTemp/WinSCP/scp30058/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V621/Common/defaultDeploy/VaultConfiguration.ini",
+		"/L/zTemp/WinSCP/scp21430/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V632/Common/ActionList_V621.ini",
+		"/L/zTemp/WinSCP/scp42445/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V632/Common/InstanceTemplateConfig.ini",
+		"/L/zTemp/WinSCP/scp06098/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V632/Common/ActionList.ini",
+		"/L/zTemp/WinSCP/scp16054/JBoss%2F@ -- INFRA%2Fbios-swrepo (BIOSLA31-BIOSLA32)/mnt/data/custom_repos/jboss/JBossAdmin-REPO/V621py3/Common/ActionList.ini",
+		"/P/JBossAdmin/conf/JBossAdmin-V632.ini",
+		"/P/JBossAdmin/conf/JBossAdmin-V630.ini",
+		"/P/LnFunctions/__init__.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"P:\\JBossAdmin\\conf",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"F602250_SrcDir",
+			"G:\\Papusso\\",
+			"%\\",
+			"%baseDstDIR%",
+			"[Ln232GB_A]\\DiscoLoreto\\LnSite",
+			"[TC_LN30GB]\\LnSite",
+			"g:\\Papusso",
+			"[Ln232GB_A]\\LnFree",
+			"[TC_LN30GB]\\LnFree",
+			"[Ln232GB_A]\\BdI",
+			"[BdI_DiscoD]\\Dati\\Profili\\f602250",
+			"set",
+			"rotateLogFile",
+			"countDown",
+			"unsigned long",
+			"countDown",
+			"long",
+			"countDown",
+			"isCarON",
+			"V12_CMD",
+			"countDown",
+			"dly_stepCDown",
+			"LED",
+			"led",
+			"LED",
+			"STATE_",
+			"--",
+			"RA0",
+			"RA",
+			"RA5",
+			"LnPORTA.CarIsON",
+			"countDown2",
+			"4000",
+			"CarIsON",
+			"LnPORTA.carSTATE",
+			"carSTATE",
+			"CarIsON",
+			"flag.",
+			"disableTMR0",
+			"V12_CMD",
+			"flag.CarIsON",
+			"lag.CarIsO",
+			"V12_CMD",
+			"StartKeyTime",
+			"INT0_PIN",
+			"TimerIsACTIVE",
+			"main2",
+			"INTOSCCLK",
+			"main2",
+			"fSTATUS",
+			"isTimerACTIVE",
+			"isTimerINACTIVE",
+			"ALARM",
+			"LN_PIC12F635",
+			"trisa",
+			"85",
+			"&",
+			"SLEEP",
+			"LnPortA",
+			"LED_PIN",
+			"ALARM_PIN",
+			"STATUS",
+			"StatusFlag",
+			"origin",
+			"PORT RA",
+			"Version",
+			"pars",
+			"origin",
+			"Prj",
+			":80",
+			"jboss-swrepo",
+			"CLICheck",
+			"this_mod",
+			"BdI.app.audit.level",
+			"SNAPSHOT_CONF",
+			"621",
+			"{}",
+			"comando immesso ",
+			"validHotDeployValue",
+			"Msg",
+			"msg",
+			"TRACE_PARAM2",
+			"JBNameCheck",
+			"remoteSite",
+			"echo \"$TAB ",
+			"JBossLocalVersionDir",
+			"mainConfigVars",
+			"port_CLI",
+			"JBossVersionId",
+			"630",
+			"V630",
+			"usageMsg",
+			"ArgumentParser",
+			"usage",
+			"eusag",
+			"commonParsing",
+			"AL_myVarsSectID",
+			"del",
+			"6.",
+			"del",
+			"InstanceName",
+			"6.",
+			"63",
+			"echo ",
+			"echo",
+			"port_CLI",
+			"posit",
+			"CLI_COMMAND",
+			"origin",
+			"actionListFName",
+			"ActionListFName",
+			"actionListFName",
+			"ActionListFName",
+			"actionListFName",
+			"ActionListFName",
+			"actionListFName",
+			"ActionListFName",
+			"R01",
+			"actionListFName",
+			"actionl",
+			"AUTO_START flag is False. No action wi",
+			"checking for",
+			"TABcyan",
+			"TABerr",
+			"TAByel",
+			"batchNameFile",
+			"batc",
+			"batchNameFile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "L:\\Loreto\\GIT-REPO\\PIC\\MPLAB\\Timer4Autoradio\\Include"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "L:\\Loreto\\GIT-REPO\\PIC\\MPLAB\\Timer4Autoradio\\Source"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "L:\\Loreto\\GIT-REPO\\PIC\\MPLAB\\Timer4Autoradio\\Stimulus"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"L:\\LnFree\\_LnPortable\\PythonPATH.cmd"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"L:\\Loreto\\GIT-REPO\\PIC\\MPLAB\\TimerRAIE\\TimerRAIE.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

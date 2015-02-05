@@ -1,0 +1,299 @@
+[p LITE_MODE AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 12F635 ]
+[d frameptr 6 ]
+"19 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Source/setUp_PIC12F635.c
+[v _setPortConfig setPortConfig `(v  1 e 0 0 ]
+"96
+[v _setMainConfig setMainConfig `(v  1 e 0 0 ]
+"170
+[v _SetupClock SetupClock `(v  1 e 0 0 ]
+"17 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Source/Timer4Autoradio_IRQ_PIC12F635.c
+[v _IrqHandler IrqHandler `II(v  1 e 0 0 ]
+"113
+[v _setup_interrrupt_OnChange setup_interrrupt_OnChange `(v  1 e 0 0 ]
+"126
+[v _setup_interrupt_INT0 setup_interrupt_INT0 `(v  1 e 0 0 ]
+"139
+[v _setUp_TMR0 setUp_TMR0 `(v  1 e 0 0 ]
+"59 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Source/TimerMain.c
+[v _main main `(i  1 e 2 0 ]
+"141
+[v _countDown countDown `(v  1 e 0 0 ]
+"189
+[v _blinkLED blinkLED `(v  1 e 0 0 ]
+"4 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\abdiv.c
+[v ___abdiv __abdiv `(c  1 e 1 0 ]
+"4 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\abmod.c
+[v ___abmod __abmod `(c  1 e 1 0 ]
+"33 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\abtoft.c
+[v ___abtoft __abtoft `(f  1 e 3 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+"5 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\almod.c
+[v ___almod __almod `(l  1 e 4 0 ]
+"42 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\altoft.c
+[v ___altoft __altoft `(f  1 e 3 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\atdiv.c
+[v ___atdiv __atdiv `(m  1 e 3 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\atmod.c
+[v ___atmod __atmod `(m  1 e 3 0 ]
+"37 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\attoft.c
+[v ___attoft __attoft `(f  1 e 3 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+"32 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\awtoft.c
+[v ___awtoft __awtoft `(f  1 e 3 0 ]
+"2 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\bmul.c
+[v ___bmul __bmul `(uc  1 e 1 0 ]
+"62 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"4 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\ftge.c
+[v ___ftge __ftge `(b  1 e 0 0 ]
+"51 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 3 0 ]
+"15 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\ftneg.c
+[v ___ftneg __ftneg `(f  1 e 3 0 ]
+"18 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 3 0 ]
+"44 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\fttol.c
+[v ___fttol __fttol `(l  1 e 4 0 ]
+"4 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\lbdiv.c
+[v ___lbdiv __lbdiv `(uc  1 e 1 0 ]
+"4 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\lbmod.c
+[v ___lbmod __lbmod `(uc  1 e 1 0 ]
+"27 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\lbtoft.c
+[v ___lbtoft __lbtoft `(f  1 e 3 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\lldiv.c
+[v ___lldiv __lldiv `(ul  1 e 4 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\llmod.c
+[v ___llmod __llmod `(ul  1 e 4 0 ]
+"35 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\lltoft.c
+[v ___lltoft __lltoft `(f  1 e 3 0 ]
+"2 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\lmul.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\ltdiv.c
+[v ___ltdiv __ltdiv `(um  1 e 3 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\ltmod.c
+[v ___ltmod __ltmod `(um  1 e 3 0 ]
+"30 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\lttoft.c
+[v ___lttoft __lttoft `(f  1 e 3 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\lwmod.c
+[v ___lwmod __lwmod `(ui  1 e 2 0 ]
+"28 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\lwtoft.c
+[v ___lwtoft __lwtoft `(f  1 e 3 0 ]
+"2 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\tmul.c
+[v ___tmul __tmul `(um  1 e 3 0 ]
+"4 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\common\wmul.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+"6 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\pic\eeprom.c
+[v _eecpymem eecpymem `(v  1 e 0 0 ]
+"24
+[v _memcpyee memcpyee `(v  1 e 0 0 ]
+"48
+[v ___eetoc __eetoc `(uc  1 e 1 0 ]
+"56
+[v ___eetoi __eetoi `(ui  1 e 2 0 ]
+"64
+[v ___eetom __eetom `(um  1 e 3 0 ]
+"72
+[v ___eetol __eetol `(ul  1 e 4 0 ]
+"80
+[v ___ctoee __ctoee `(uc  1 e 1 0 ]
+"87
+[v ___itoee __itoee `(ui  1 e 2 0 ]
+"94
+[v ___mtoee __mtoee `(um  1 e 3 0 ]
+"101
+[v ___ltoee __ltoee `(ul  1 e 4 0 ]
+"108
+[v ___eetoft __eetoft `(f  1 e 3 0 ]
+"116
+[v ___eetofl __eetofl `(d  1 e 3 0 ]
+"124
+[v ___fttoee __fttoee `(f  1 e 3 0 ]
+"131
+[v ___fltoee __fltoee `(d  1 e 3 0 ]
+"49 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\sources\pic\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 3 0 ]
+"50 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Include\pic12f635.h
+[v _TMR0 TMR0 `VEuc  1 e 1 @1 ]
+"160
+[v _PORTA PORTA `VEuc  1 e 1 @5 ]
+"347
+[v _INTCON INTCON `VEuc  1 e 1 @11 ]
+[s S268 . 1 `uc 1 RAIF 1 0 :1:0 
+`uc 1 INTF 1 0 :1:1 
+`uc 1 T0IF 1 0 :1:2 
+`uc 1 RAIE 1 0 :1:3 
+`uc 1 INTE 1 0 :1:4 
+`uc 1 T0IE 1 0 :1:5 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+"364
+[u S277 . 1 `S268 1 . 1 0 ]
+[v _INTCONbits INTCONbits `VES277  1 e 1 @11 ]
+[s S133 . 1 `uc 1 SWDTEN 1 0 :1:0 
+`uc 1 WDTPS 1 0 :4:1 
+]
+"565
+[s S136 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 WDTPS0 1 0 :1:1 
+`uc 1 WDTPS1 1 0 :1:2 
+`uc 1 WDTPS2 1 0 :1:3 
+`uc 1 WDTPS3 1 0 :1:4 
+]
+[u S142 . 1 `S133 1 . 1 0 `S136 1 . 1 0 ]
+[v _WDTCONbits WDTCONbits `VES142  1 e 1 @24 ]
+"599
+[v _CMCON0 CMCON0 `VEuc  1 e 1 @25 ]
+"706
+[v _OPTION_REG OPTION_REG `VEuc  1 e 1 @129 ]
+[s S31 . 1 `uc 1 PS 1 0 :3:0 
+`uc 1 PSA 1 0 :1:3 
+`uc 1 T0SE 1 0 :1:4 
+`uc 1 T0CS 1 0 :1:5 
+`uc 1 INTEDG 1 0 :1:6 
+`uc 1 nRAPU 1 0 :1:7 
+]
+"726
+[s S38 . 1 `uc 1 PS0 1 0 :1:0 
+`uc 1 PS1 1 0 :1:1 
+`uc 1 PS2 1 0 :1:2 
+]
+[u S42 . 1 `S31 1 . 1 0 `S38 1 . 1 0 ]
+[v _OPTION_REGbits OPTION_REGbits `VES42  1 e 1 @129 ]
+"780
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"1060
+[v _OSCCON OSCCON `VEuc  1 e 1 @143 ]
+"1234
+[v _WPUDA WPUDA `VEuc  1 e 1 @149 ]
+"1278
+[v _IOCA IOCA `VEuc  1 e 1 @150 ]
+"1327
+[v _WDA WDA `VEuc  1 e 1 @151 ]
+[s S19 . 1 `uc 1 TMR0isExpired 1 0 :1:0 
+`uc 1 isCarON 1 0 :1:1 
+`uc 1 TimerIsActive 1 0 :1:2 
+`uc 1 PulsanteHasPushed 1 0 :1:3 
+`uc 1 desiredStatex 1 0 :1:4 
+`uc 1 forceSTOP 1 0 :1:5 
+`uc 1 goToSleep 1 0 :1:6 
+`uc 1 bit7 1 0 :1:7 
+]
+"108 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Include\Timer4Autoradio_PIC12F635.h
+[u S28 . 1 `VEuc 1 flags 1 0 `S19 1 . 1 0 ]
+[v _fSTATUS fSTATUS `VES28  1 e 1 0 ]
+[v _flag flag `VES28  1 e 1 0 ]
+[s S60 . 1 `uc 1 V12_CMD 1 0 :1:0 
+`uc 1 bit1 1 0 :1:1 
+`uc 1 PULSANTE 1 0 :1:2 
+`uc 1 MCLR 1 0 :1:3 
+`uc 1 OUT_LINE 1 0 :1:4 
+`uc 1 LED 1 0 :1:5 
+]
+"149
+[s S67 . 1 `uc 1 RA0 1 0 :1:0 
+`uc 1 RA1 1 0 :1:1 
+`uc 1 RA2 1 0 :1:2 
+`uc 1 RA3 1 0 :1:3 
+`uc 1 RA4 1 0 :1:4 
+`uc 1 RA5 1 0 :1:5 
+]
+[s S74 . 1 `uc 1 Pin7 1 0 :1:0 
+`uc 1 Pin6 1 0 :1:1 
+`uc 1 Pin5 1 0 :1:2 
+`uc 1 Pin4 1 0 :1:3 
+`uc 1 Pin3 1 0 :1:4 
+`uc 1 Pin2 1 0 :1:5 
+]
+[u S81 . 1 `VEuc 1 byte 1 0 `S60 1 . 1 0 `S67 1 . 1 0 `S74 1 . 1 0 ]
+[v _LnTRISA LnTRISA `VES81  1 e 1 @133 ]
+"150
+[v _LnPORTA LnPORTA `VES81  1 e 1 @5 ]
+"151
+[v _LnWPUDA LnWPUDA `VES81  1 e 1 @149 ]
+"153
+[v _LnIOCA LnIOCA `VES81  1 e 1 @150 ]
+"169
+[v _stopDeBounceValue stopDeBounceValue `i  1 e 2 0 ]
+"172
+[v _TMR0_Counter TMR0_Counter `i  1 e 2 0 ]
+"185
+[v _DESIRED_STATE DESIRED_STATE `VEi  1 e 2 0 ]
+"1435 E:\LnDisk\LnFree\Pgm\MicroChip\xc8\v1.30\include\pic12f635.h
+[v _EEDATA EEDATA `VEuc  1 e 1 @154 ]
+"1467
+[v _EEADR EEADR `VEuc  1 e 1 @155 ]
+"1473
+[v _EECON1 EECON1 `VEuc  1 e 1 @156 ]
+"1510
+[v _EECON2 EECON2 `VEuc  1 e 1 @157 ]
+"1667
+[v _CARRY CARRY `VEb  1 e 0 @24 ]
+"1701
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"1797
+[v _RD RD `VEb  1 e 0 @1248 ]
+"1915
+[v _WR WR `VEb  1 e 0 @1249 ]
+"1917
+[v _WREN WREN `VEb  1 e 0 @1250 ]
+"59 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Source/TimerMain.c
+[v _main main `(i  1 e 2 0 ]
+{
+"133
+} 0
+"126 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Source/Timer4Autoradio_IRQ_PIC12F635.c
+[v _setup_interrupt_INT0 setup_interrupt_INT0 `(v  1 e 0 0 ]
+{
+"132
+} 0
+"139
+[v _setUp_TMR0 setUp_TMR0 `(v  1 e 0 0 ]
+{
+"179
+} 0
+"19 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Source/setUp_PIC12F635.c
+[v _setPortConfig setPortConfig `(v  1 e 0 0 ]
+{
+"92
+} 0
+"96
+[v _setMainConfig setMainConfig `(v  1 e 0 0 ]
+{
+"168
+} 0
+"141 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Source/TimerMain.c
+[v _countDown countDown `(v  1 e 0 0 ]
+{
+"142
+[v countDown@myTimer myTimer `i  1 a 2 9 ]
+[v countDown@mSec mSec `i  1 a 2 7 ]
+"149
+[v countDown@TEST TEST `i  1 a 2 5 ]
+"141
+[v countDown@TIMER_VALUE TIMER_VALUE `i  1 p 2 0 ]
+"182
+} 0
+"170 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Source/setUp_PIC12F635.c
+[v _SetupClock SetupClock `(v  1 e 0 0 ]
+{
+"230
+} 0
+"17 E:\LnDisk\GIT-REPO\Progetti\Timer4Autoradio\MPLAB/Source/Timer4Autoradio_IRQ_PIC12F635.c
+[v _IrqHandler IrqHandler `II(v  1 e 0 0 ]
+{
+"18
+[v IrqHandler@debounceValue debounceValue `i  1 a 2 7 ]
+"104
+} 0

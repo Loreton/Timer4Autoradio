@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 28/12/2014 18:59:42
+
+BeginCmp
+TimeStamp = /5479D91E;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = LnCap_100;
+EndCmp
+
+BeginCmp
+TimeStamp = /5479D8B1;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = LnCAPE_100_V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5479D8A2;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = LnCap_100;
+EndCmp
+
+BeginCmp
+TimeStamp = /5497C750;
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = LnCAPE_100_V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5479CD9B;
+Reference = D1;
+ValeurCmp = 1N4001;
+IdModule  = LnDiode_500;
+EndCmp
+
+BeginCmp
+TimeStamp = /547EB908;
+Reference = D2;
+ValeurCmp = 1N4148;
+IdModule  = LnDiode_500;
+EndCmp
+
+BeginCmp
+TimeStamp = /547EB91A;
+Reference = DL1;
+ValeurCmp = LED;
+IdModule  = LnLED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54797C66;
+Reference = DL2;
+ValeurCmp = LED;
+IdModule  = LnLED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547EB8F2;
+Reference = IC1;
+ValeurCmp = 4N35;
+IdModule  = LnDIP-06_300;
+EndCmp
+
+BeginCmp
+TimeStamp = /549ED5C2;
+Reference = J1;
+ValeurCmp = 12Vcc;
+IdModule  = LnSIP-04;
+EndCmp
+
+BeginCmp
+TimeStamp = /549FE5A2;
+Reference = J2;
+ValeurCmp = ExtLED;
+IdModule  = LnSIP-02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A0455B;
+Reference = J3;
+ValeurCmp = CONN_05;
+IdModule  = LnSIP-05;
+EndCmp
+
+BeginCmp
+TimeStamp = /54991B32;
+Reference = PB1;
+ValeurCmp = PButton;
+IdModule  = LnSIP-02;
+EndCmp
+
+BeginCmp
+TimeStamp = /549D865E;
+Reference = Q1;
+ValeurCmp = BC337-BC238;
+IdModule  = Ln-TO92-BC238;
+EndCmp
+
+BeginCmp
+TimeStamp = /54973568;
+Reference = R1;
+ValeurCmp = 25K;
+IdModule  = LnRes-500;
+EndCmp
+
+BeginCmp
+TimeStamp = /5479D383;
+Reference = R2;
+ValeurCmp = 4K7;
+IdModule  = LnRes-500;
+EndCmp
+
+BeginCmp
+TimeStamp = /5479D629;
+Reference = R3;
+ValeurCmp = 2K2;
+IdModule  = LnRes-500;
+EndCmp
+
+BeginCmp
+TimeStamp = /5399FA94;
+Reference = R4;
+ValeurCmp = 25K;
+IdModule  = LnRes-500;
+EndCmp
+
+BeginCmp
+TimeStamp = /547EB8EC;
+Reference = R5;
+ValeurCmp = 330;
+IdModule  = LnRes-500;
+EndCmp
+
+BeginCmp
+TimeStamp = /54797C73;
+Reference = R6;
+ValeurCmp = 470;
+IdModule  = LnRes-500;
+EndCmp
+
+BeginCmp
+TimeStamp = /549D8685;
+Reference = R7;
+ValeurCmp = 2k2;
+IdModule  = LnRes-500;
+EndCmp
+
+BeginCmp
+TimeStamp = /549918D2;
+Reference = RL1;
+ValeurCmp = RELAY_AUTORADIO;
+IdModule  = LnDIP-14_300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5479CD70;
+Reference = U1;
+ValeurCmp = 78L05;
+IdModule  = LnLM78XX-TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /547C17A2;
+Reference = U2;
+ValeurCmp = PIC12F635_4;
+IdModule  = LnDIP-08_300;
+EndCmp
+
+EndListe

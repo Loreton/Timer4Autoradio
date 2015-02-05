@@ -1,0 +1,13 @@
+configuration for "pic18f917" is
+   // shared variables and labels go here
+end configuration;
+
+
+// testbench follows
+
+testbench for "pic18f917" is begin
+    process is begin
+        ADRESH <= 16#BB#;
+        wait;
+    end process;
+end testbench;
