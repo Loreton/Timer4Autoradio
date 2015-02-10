@@ -28,7 +28,7 @@ DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.127000000000
 [pcbnew/libraries]
-LibDir=../../LnLibraryModules
+LibDir=e:\LnDisk\GIT-REPO\CAD\KiCAD\LnLibraryModules
 LibName1=LnKicadModules
 LibName2=sockets
 LibName3=connect
